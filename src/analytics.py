@@ -68,19 +68,17 @@ def average_arrival_time(df):
 #test block with splitting of files
 
 if __name__ == "__main__":
+    from data_loader import load_event_data
+
     print("Running analytics test...\n")
 
-    # Load the same CSV for both registration and check-in
-    df = load_registration_data("C:/oop_lab/smart-event-analytics-system/data/raw/sample_attendees_250.csv")
-
-    # Split into reg_df and checkin_df
-    reg_df = df.drop(columns=['Checkin_DateTime'])           # registration info only
-    check_df = df[['Attendee_ID', 'Checkin_DateTime']]       # check-in info only
-
+    # Load data (one combined CSV or separate CSVs)
+    reg_df, check_df = load_event_data("C:/oop_lab/smart-event-analytics-system/data/raw/sample_attendees_250.csv")
+    
     # Clean
     reg_df = clean_registration(reg_df)
     check_df = clean_checkin(check_df)
-
+    
     # Merge
     merged = merge_data(reg_df, check_df)
 
@@ -97,4 +95,5 @@ if __name__ == "__main__":
     # Calculate and print average arrival time
     avg_time = average_arrival_time(merged)
     print("\nAverage Arrival Time:", avg_time if avg_time is not None else "No check-ins")
+
 

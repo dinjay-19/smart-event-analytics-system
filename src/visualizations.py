@@ -105,15 +105,12 @@ def plot_stacked_category_attendance(merged_df):
     plt.show()
 
 
-# TEST BLOCK
-
+# Test block
 if __name__ == "__main__":
-    # Load CSV
-    df = load_registration_data("C:/oop_lab/smart-event-analytics-system/data/raw/sample_attendees_250.csv")
+    from data_loader import load_event_data
 
-    # Split registration and check-in
-    reg_df = df.drop(columns=['Checkin_DateTime'])
-    check_df = df[['Attendee_ID', 'Checkin_DateTime']]
+    # Load data (can be one CSV or two separate CSVs)
+    reg_df, check_df = load_event_data("C:/oop_lab/smart-event-analytics-system/data/raw/sample_attendees_250.csv")
 
     # Clean
     reg_df = clean_registration(reg_df)
@@ -127,3 +124,4 @@ if __name__ == "__main__":
     plot_overall_attendance(merged_df)
     plot_arrival_distribution(merged_df)
     plot_stacked_category_attendance(merged_df)
+
