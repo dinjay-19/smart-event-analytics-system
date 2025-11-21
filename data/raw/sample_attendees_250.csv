@@ -1,0 +1,251 @@
+Attendee_ID,Name,Category,Checkin_DateTime
+1,Susan Russell,Sponsor,5/8/2025 9:54
+2,Daniel Lee,Sponsor,5/8/2025 11:01
+3,Stephanie Lynch,Sponsor,5/8/2025 11:06
+4,Jessica Jensen,Sponsor,5/8/2025 9:35
+5,John Villegas,Sponsor,5/8/2025 9:15
+6,Kevin Ramos,Sponsor,5/8/2025 10:12
+7,Ruth Hudson,Sponsor,5/8/2025 9:04
+8,Joan Smith,Sponsor,5/8/2025 9:03
+9,Sandy Hines,Sponsor,5/8/2025 10:33
+10,Natasha Richard,Sponsor,5/8/2025 10:25
+11,Ashley Marshall,Sponsor,5/8/2025 10:01
+12,Kyle Thompson,Sponsor,5/8/2025 9:25
+13,Curtis Jackson,Sponsor,5/8/2025 9:28
+14,Margaret Hill,Sponsor,5/8/2025 11:28
+15,Mrs. Megan Duran,Sponsor,5/8/2025 10:41
+16,Mary Davis,Sponsor,5/8/2025 9:40
+17,Brian Robinson,Sponsor,5/8/2025 9:17
+18,Vincent Perez DVM,Sponsor,5/8/2025 10:48
+19,Rebecca Peck,Sponsor,5/8/2025 10:59
+20,Cole Steele,Sponsor,5/8/2025 11:15
+21,Anthony Chung,Sponsor,5/8/2025 10:25
+22,Donald Mack,Sponsor,5/8/2025 11:22
+23,Kevin Ramsey,Sponsor,5/8/2025 10:39
+24,Karen Rodriguez,Sponsor,5/8/2025 9:35
+25,Sabrina Blair,Sponsor,5/8/2025 9:06
+26,Emily Johnson,Sponsor,5/8/2025 10:41
+27,Francis Burke,Sponsor,5/8/2025 10:01
+28,Stephen Copeland,Sponsor,5/8/2025 9:12
+29,Mitchell Sims,Sponsor,5/8/2025 9:27
+30,Anna Smith,Sponsor,5/8/2025 11:26
+31,Erik Mendoza,Sponsor,5/8/2025 10:50
+32,Linda Jenkins,Sponsor,5/8/2025 11:15
+33,Bobby Scott,Sponsor,5/8/2025 9:07
+34,Julia Robinson,Sponsor,5/8/2025 9:30
+35,Brandi Gray,Sponsor,5/8/2025 11:28
+36,Sheila Jordan,Sponsor,5/8/2025 9:12
+37,Clayton Rivera,Sponsor,
+38,Tiffany Brooks PhD,Sponsor,
+39,Margaret Bonilla,Sponsor,
+40,Amanda Kelley,Sponsor,
+41,Julie Smith,Sponsor,
+42,Bonnie Morgan,Sponsor,
+43,Benjamin Thompson,Sponsor,
+44,William Dixon,Speaker,5/8/2025 9:12
+45,Joshua Moody DDS,Speaker,5/8/2025 11:12
+46,Gary Lewis,Speaker,5/8/2025 10:18
+47,Scott Hamilton,Speaker,5/8/2025 9:17
+48,James Abbott,Speaker,5/8/2025 10:24
+49,Terry Petersen,Speaker,5/8/2025 10:33
+50,Kyle Morales,Speaker,5/8/2025 9:38
+51,Allison Gomez,Speaker,5/8/2025 10:38
+52,Christopher Graves,Speaker,5/8/2025 10:57
+53,Robin Lewis,Speaker,5/8/2025 9:39
+54,Joshua Key,Guest,5/8/2025 10:46
+55,Randall Bradley,Guest,5/8/2025 9:54
+56,Amber Allen,Guest,
+57,Audrey Scott,Guest,5/8/2025 10:08
+58,Phillip Weber,Guest,5/8/2025 10:39
+59,Pamela Anderson,Guest,5/8/2025 11:06
+60,Aaron Thompson,Guest,
+61,Ronald Baker,Guest,5/8/2025 9:03
+62,James Keller,Guest,5/8/2025 9:02
+63,Shannon Kelly,Guest,5/8/2025 10:55
+64,Latasha Phillips,Guest,5/8/2025 10:40
+65,Tyrone Flores,Guest,5/8/2025 9:15
+66,Christopher Kennedy,Guest,5/8/2025 10:29
+67,Randy Armstrong,Guest,
+68,Justin Walker,Guest,5/8/2025 9:57
+69,Christopher Patterson,Faculty,5/8/2025 11:01
+70,Jeffrey Lewis,Faculty,5/8/2025 10:45
+71,Nichole Ramirez,Faculty,5/8/2025 11:04
+72,David Meyer,Faculty,5/8/2025 10:42
+73,Donna Frost,Faculty,
+74,James Calderon,Faculty,5/8/2025 9:54
+75,Amanda Gonzalez,Faculty,5/8/2025 9:52
+76,Steven Ruiz,Faculty,
+77,Lydia Austin,Faculty,5/8/2025 10:39
+78,Jordan Coffey,Faculty,5/8/2025 10:25
+79,David Bennett,Faculty,
+80,Emily Patton,Faculty,5/8/2025 11:07
+81,Todd Nielsen,Faculty,5/8/2025 11:28
+82,Omar Ayala,Faculty,5/8/2025 9:14
+83,Jacqueline Fowler,Faculty,5/8/2025 9:20
+84,Catherine Friedman,Faculty,
+85,Carolyn Nelson,Faculty,5/8/2025 11:06
+86,Stephanie Curry,Faculty,5/8/2025 11:04
+87,Erin Murray,Faculty,
+88,Kevin Harrison,Faculty,5/8/2025 10:54
+89,Michael Harris,Faculty,5/8/2025 9:26
+90,Chris Bryant,Faculty,5/8/2025 10:46
+91,Tracy Matthews,Faculty,5/8/2025 11:25
+92,Patrick King,Faculty,5/8/2025 9:07
+93,Charles Stephenson,Faculty,5/8/2025 10:13
+94,Lauren Phillips,Faculty,
+95,Todd Proctor,Faculty,5/8/2025 9:36
+96,Amber Rice,Faculty,5/8/2025 11:28
+97,Mary Kelly,Faculty,5/8/2025 10:13
+98,Brenda Montgomery,Faculty,5/8/2025 11:13
+99,Jonathan Lynch,Faculty,5/8/2025 9:27
+100,Mark Huynh,Faculty,
+101,Randall Swanson,Student,5/8/2025 11:16
+102,Adam Harris,Student,5/8/2025 11:13
+103,Shelby Baker,Student,5/8/2025 9:38
+104,Brian Young,Student,5/8/2025 10:23
+105,Alison Stark,Student,5/8/2025 10:19
+106,Diane Brown,Student,5/8/2025 9:12
+107,Luis Grant,Student,5/8/2025 9:27
+108,Michael Buchanan,Student,5/8/2025 10:21
+109,Amy Graham,Student,5/8/2025 10:33
+110,Roy Wells,Student,5/8/2025 9:14
+111,Lisa Douglas,Student,5/8/2025 11:29
+112,Brooke Hancock,Student,5/8/2025 9:18
+113,Matthew Kramer,Student,5/8/2025 9:05
+114,Jenna Perez,Student,5/8/2025 9:25
+115,Jason Gordon,Student,5/8/2025 9:26
+116,Daniel Martin,Student,5/8/2025 10:27
+117,Claudia Tucker,Student,5/8/2025 10:08
+118,Tracy Morse,Student,5/8/2025 10:50
+119,Brian Navarro,Student,5/8/2025 9:24
+120,Anita Davis,Student,5/8/2025 11:21
+121,Dr. Charles Davis Jr.,Student,5/8/2025 9:57
+122,Shawn Patterson,Student,5/8/2025 10:24
+123,Jeffrey Ali,Student,5/8/2025 10:14
+124,Jessica Little,Student,5/8/2025 10:24
+125,Nicole Johnson,Student,5/8/2025 10:30
+126,Matthew Jones,Student,5/8/2025 10:40
+127,Erica Berry,Student,5/8/2025 10:55
+128,Michael Fletcher,Student,5/8/2025 9:16
+129,Kathryn Evans,Student,5/8/2025 10:59
+130,Corey Newman,Student,5/8/2025 10:04
+131,Carrie Murray,Student,5/8/2025 10:07
+132,Ian Williams,Student,5/8/2025 10:31
+133,Steven Campbell,Student,5/8/2025 9:47
+134,Jonathan Bishop,Student,5/8/2025 9:40
+135,Kyle Williams,Student,5/8/2025 10:11
+136,Dana Miller,Student,5/8/2025 9:02
+137,Tara Sanders,Student,5/8/2025 10:59
+138,Hannah Ramos,Student,5/8/2025 9:43
+139,Joel Huff,Student,5/8/2025 9:15
+140,Stephanie Holland,Student,5/8/2025 9:09
+141,David Anderson,Student,5/8/2025 11:17
+142,Nichole Stephenson,Student,5/8/2025 11:28
+143,Joshua Brown,Student,5/8/2025 10:21
+144,Jennifer Roberts,Student,5/8/2025 11:13
+145,Daniel Bender,Student,5/8/2025 11:09
+146,Jose Sellers,Student,5/8/2025 10:14
+147,Mr. Spencer Clark,Student,5/8/2025 10:06
+148,Catherine Carson,Student,5/8/2025 9:50
+149,John Jacobson,Student,5/8/2025 11:24
+150,Eric Richmond,Student,5/8/2025 9:03
+151,Justin Ashley,Student,5/8/2025 10:38
+152,James Silva,Student,5/8/2025 9:08
+153,Margaret Robinson,Student,5/8/2025 10:54
+154,Sandra Mendoza,Student,5/8/2025 9:43
+155,Kenneth Schroeder,Student,5/8/2025 11:08
+156,Elizabeth Meyer,Student,5/8/2025 9:49
+157,Cristina Simmons,Student,5/8/2025 11:01
+158,Alfred Robinson,Student,5/8/2025 9:56
+159,Gloria Jacobson,Student,5/8/2025 9:10
+160,Monica Howell,Student,5/8/2025 10:07
+161,Susan Moore,Student,5/8/2025 9:31
+162,Russell Bradley,Student,5/8/2025 10:53
+163,Ryan Dunn,Student,5/8/2025 11:14
+164,Robert Murray,Student,5/8/2025 10:21
+165,Tracy Mcdowell,Student,5/8/2025 11:13
+166,Cathy Reeves,Student,5/8/2025 10:35
+167,Brian Wilkinson,Student,5/8/2025 9:49
+168,Shannon Parks,Student,5/8/2025 10:26
+169,Jessica Thompson,Student,5/8/2025 10:02
+170,Elizabeth Carlson,Student,5/8/2025 11:02
+171,Jessica Potter,Student,5/8/2025 10:11
+172,Dylan Duncan,Student,5/8/2025 9:57
+173,Christopher Baker,Student,5/8/2025 9:22
+174,Crystal Blankenship,Student,5/8/2025 11:28
+175,Bruce Charles,Student,5/8/2025 10:11
+176,Kevin Poole,Student,5/8/2025 10:39
+177,Christian Gregory,Student,5/8/2025 9:35
+178,David Skinner,Student,5/8/2025 10:17
+179,Elizabeth Martin,Student,5/8/2025 9:28
+180,Aaron Stephens,Student,5/8/2025 11:22
+181,Benjamin Butler,Student,5/8/2025 9:28
+182,Steven Watts,Student,5/8/2025 9:02
+183,Lauren Landry,Student,5/8/2025 9:29
+184,Michael Thomas,Student,5/8/2025 10:07
+185,Jeffrey Murphy,Student,5/8/2025 10:03
+186,Yolanda Li,Student,5/8/2025 11:07
+187,Charlotte Horton,Student,5/8/2025 9:09
+188,Bruce Simmons,Student,5/8/2025 9:52
+189,Gina Richardson,Student,5/8/2025 11:19
+190,Jordan Anderson,Student,5/8/2025 11:18
+191,Gregory Richards,Student,5/8/2025 10:38
+192,Bruce Holt,Student,5/8/2025 9:47
+193,Mary Kaiser,Student,5/8/2025 11:28
+194,Dylan Mason,Student,5/8/2025 9:57
+195,Christopher Paul,Student,5/8/2025 10:30
+196,Frederick Chen,Student,5/8/2025 9:25
+197,Kristen Doyle,Student,5/8/2025 9:55
+198,Mathew Brennan,Student,5/8/2025 10:07
+199,Gabriel Ferguson,Student,5/8/2025 9:32
+200,Heather Palmer,Student,5/8/2025 10:56
+201,Valerie Hammond,Student,5/8/2025 10:12
+202,Steven Mccarthy,Student,5/8/2025 10:10
+203,Tina Smith,Student,5/8/2025 10:56
+204,James Johnson,Student,5/8/2025 9:56
+205,Monica Mckenzie,Student,5/8/2025 11:04
+206,Joshua Williams,Student,5/8/2025 11:03
+207,Gary Maldonado,Student,5/8/2025 10:48
+208,Bryan Gilbert,Student,5/8/2025 11:21
+209,Brenda Shepard,Student,5/8/2025 10:54
+210,Samantha Powell,Student,5/8/2025 10:35
+211,Ashley Hughes,Student,
+212,Paul Thomas,Student,
+213,Laura Kim,Student,
+214,Lisa Ingram,Student,
+215,Joan Martinez,Student,
+216,Aaron Taylor,Student,
+217,Christopher Baker,Student,
+218,Julie Johnston,Student,
+219,Jasmine Smith,Student,
+220,Christopher Kline,Student,
+221,John Ritter,Student,
+222,Nicholas Yang,Student,
+223,Sandra Oliver,Student,
+224,Jenna Henderson,Student,
+225,Heather Alexander,Student,
+226,Joel Ward,Student,
+227,Maurice Carey,Student,
+228,Heather Yates,Student,
+229,Matthew Jackson,Student,
+230,Traci Robinson,Student,
+231,John Hernandez,Student,
+232,Douglas Molina,Student,
+233,Ronald Little,Student,
+234,Karen Moody,Student,
+235,Jennifer Lutz,Student,
+236,Jennifer Goodman,Student,
+237,Stacy Johnson,Student,
+238,Kristen Jones,Student,
+239,Rachel Wilson,Student,
+240,Tracy Clark,Student,
+241,Tara Williams,Student,
+242,Heidi Pitts,Student,
+243,Sherry Walsh,Student,
+244,Sherry Norris,Student,
+245,Paul Bailey,Student,
+246,Tina Torres,Student,
+247,Michael Park,Student,
+248,Melissa Welch,Student,
+249,Robert Smith,Student,
+250,Jacob Baird,Student,
